@@ -10,9 +10,8 @@
   "bugs": {
     "url": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response/issues"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "access": "public"
+"publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response#readme",
   "main": "dist/index.js",
