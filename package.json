@@ -1,6 +1,6 @@
 {
   "name": "@rolldeep-stepmerrily/nestjs-swagger-api-exception-response",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS Swagger API Exception Response Decorator",
   "private": false,
   "repository": {
@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response/issues"
   },
-"publishConfig": {
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response#readme",
