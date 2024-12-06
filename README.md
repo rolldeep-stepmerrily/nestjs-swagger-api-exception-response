@@ -49,3 +49,11 @@ export class ExampleController {
 }
 ```
 
+
+## Github
+
+[https://github.com/rolldee-stepmerrily/nestjs-swagger-api-exception-response](https://github.com/rolldee-stepmerrily/nestjs-swagger-api-exception-response)
+
+## NPM
+
+[https://www.npmjs.com/package/nestjs-swagger-api-exception-response](https://www.npmjs.com/package/nestjs-swagger-api-exception-response)
