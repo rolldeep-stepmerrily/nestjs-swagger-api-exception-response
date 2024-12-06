@@ -5,13 +5,13 @@ Exception Response Decorator for NestJS Swagger Documentation
 ## Installation
 
 ```bash
-npm install nestjs-swagger-api-exception-response
+npm install @rolldeep-stepmerrily/nestjs-swagger-api-exception-response
 ```
 
 ## Usage
 
 ```typescript
-import { ApiExceptionResponse } from 'nestjs-swagger-api-exception-response';
+import { ApiExceptionResponse } from '@rolldeep-stepmerrily/nestjs-swagger-api-exception-response';
 import { HttpStatus } from '@nestjs/common';
 
 @Controller('example')
