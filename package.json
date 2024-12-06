@@ -4,7 +4,7 @@
   "description": "NestJS Swagger API Exception Response Decorator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response.git"
+    "url": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response.git"
   },
   "bugs": {
     "url": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response/issues"
