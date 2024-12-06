@@ -4,12 +4,12 @@
   "description": "NestJS Swagger API Exception Response Decorator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolldee-stepmerrily/nestjs-swagger-api-exception-response.git"
+    "url": "git+https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response.git"
   },
   "bugs": {
-    "url": "https://github.com/rolldee-stepmerrily/nestjs-swagger-api-exception-response/issues"
+    "url": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response/issues"
   },
-  "homepage": "https://github.com/rolldee-stepmerrily/nestjs-swagger-api-exception-response#readme",
+  "homepage": "https://github.com/rolldeep-stepmerrily/nestjs-swagger-api-exception-response#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
